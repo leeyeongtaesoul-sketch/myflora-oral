@@ -1,12 +1,8 @@
 {
   "name": "myflora-backend",
   "version": "1.0.0",
-  "description": "MyFlora Oral Backend",
   "scripts": {
-    "build": "nest build",
-    "start": "node dist/main",
-    "start:dev": "nest start --watch",
-    "start:prod": "node dist/main"
+    "start": "node dist/main.js"
   },
   "dependencies": {
     "@nestjs/common": "^10.0.0",
